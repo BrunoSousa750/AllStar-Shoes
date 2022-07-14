@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AllStar Shoes </title>
+</head>
+<body>
+    <article>
+        <h1>Converse Chuck Taylor AllStar LowTop</h1>
+        <img src="images/challenges.jpg" alt="AllStar Shoe" height="350" width="350">
+        <p><strong>$64,99</strong></p>
+        <p>Sem frete</p>
+        <p>Pronto pra usar e calçar, os novos Chuck LowTop são a nova norma do dia-a-dia</p>
+        <a href="#">Mais informações &rarr;</a>
+        <h1>Detalhes do Produto</h1>
+        <ul>
+            <li>Leves, duraveis e feitos com lona da mais alta qualidade</li>
+            <li>Sola levemente acolchoada para maior conforto</li>
+            <li>Costura sínonimo da marca Chuck's</li>
+        </ul>
+        <button>Adicionar para o carrinho</button>
+    </article>
+</body>
+</html>
